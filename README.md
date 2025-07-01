@@ -32,7 +32,7 @@ The project is divided into four main folders, each representing a department. I
 
 └── ...
 
-/Software Department/
+/Web Development/
 
 ├── Task 1/
 
@@ -65,7 +65,7 @@ The project is divided into four main folders, each representing a department. I
 - ROS and LIDAR for navigation & recognition
 - Fault detection and predictive maintenance
 
-### 4. 💻 Software Department
+### 4. 💻 Web Development
 - UI/UX design and testing for robot systems
 - Cloud-based database analysis for robotics
 - Arabic NLP for chatbot-based interaction
