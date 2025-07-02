@@ -1,37 +1,58 @@
-# 🔌 Arduino Task 1 - Button-Controlled RGB LEDs
+# Task 1: Button-Controlled RGB LEDs
 
-## 📁 Repository
-**Path:** `Electronics and IoT Department/Task 1`  
-**Files:**
-- `task1.ino` — Arduino code that controls the LEDs.
-- `task1_design.png` — Circuit schematic for the project.
+## Smart Methods Journey - Electronics and IoT Department
 
-## 📝 Task Description
-This is the **first task** in the Smart Methods internship under the Electronics and IoT Department.
+### What is this task?
+This project uses **3 push buttons** to control **3 colored LEDs** (Red, Green, Blue) with an Arduino Uno. When you press a button, its matching LED lights up for exactly one second.
 
-In this project, we connect **three push buttons** to an Arduino Uno to control **three LEDs** (Red, Green, and Blue):
+### How it works
+1. Press Button 1 → Red LED turns on for 1 second
+2. Press Button 2 → Green LED turns on for 1 second  
+3. Press Button 3 → Blue LED turns on for 1 second
+4. Each LED automatically turns off after 1 second
+5. Each button only controls its own LED
 
-- Pressing **Button 1** turns on the **Red LED** for one second.
-- Pressing **Button 2** turns on the **Green LED** for one second.
-- Pressing **Button 3** turns on the **Blue LED** for one second.
+### Components needed
+- Arduino Uno
+- 3 Push Buttons
+- 3 LEDs (Red, Green, Blue)
+- 3 × 220Ω Resistors
+- Breadboard
+- Jumper wires
 
-Each LED turns off automatically after one second, and each button only controls its own LED.
+### Files in this project
+- `task1.ino` - Arduino code for button and LED control
+- `task1_design.png` - Circuit wiring diagram
 
-## 🔧 Components Used
-- Arduino Uno  
-- 3 x Push Buttons  
-- 3 x LEDs (Red, Green, Blue)  
-- 3 x 220Ω Resistors (for LEDs)  
-- Breadboard + Jumper wires  
+### How to build it
+1. **Build the Circuit:**
+   - Follow the wiring in `task1_design.png`
+   - Connect buttons and LEDs to Arduino pins
+   - Use resistors to protect the LEDs
 
-## 🖼 Circuit Design
-Refer to `task1_design.png` for the full wiring layout.
+2. **Upload Code:**
+   - Open `task1.ino` in Arduino IDE
+   - Select Arduino Uno board
+   - Upload code to your Arduino
 
-## 🚀 How to Run
-1. Build the circuit using the schematic image.
-2. Upload `task1.ino` to your Arduino using the Arduino IDE.
-3. Press any button to light up the corresponding LED.
+3. **Test:**
+   - Press any button
+   - Watch the matching LED light up for 1 second
+   - Try all three buttons
+
+### Example result
+```
+Press Button 1 → Red LED ON for 1 second → OFF
+Press Button 2 → Green LED ON for 1 second → OFF
+Press Button 3 → Blue LED ON for 1 second → OFF
+```
+
+### What I learned
+- Digital input/output with Arduino
+- Button reading and LED control
+- Timing control in programming
+- Basic electronics and circuit building
+- Arduino IDE programming
 
 ---
-
-✅ This task demonstrates basic **digital input/output** and **timing control** in Arduino.
+*Part of Smart Methods Journey - Learning Electronics and IoT*
