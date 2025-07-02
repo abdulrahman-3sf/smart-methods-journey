@@ -1,5 +1,7 @@
 # Task 1: Happy vs Sad Face Detection
 
+## Smart Methods Journey - Robotics, AI, and Data Science Department
+
 ### What is this task?
 This project builds a machine learning model that can tell if a person in a photo looks **happy** or **sad**.
 
