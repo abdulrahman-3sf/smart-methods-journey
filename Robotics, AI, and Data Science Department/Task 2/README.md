@@ -12,8 +12,8 @@ This project builds a real-time face detection system that automatically opens y
 5. Updates in real-time as you move
 
 ### Files in this project
-- `face_detection.py` - Main script that opens camera automatically
-- `[second_file]` - [Second file in the repository]
+- `face_detection_camera.py` - Main script that opens camera automatically
+- `haarcascade_frontalface_default.xml` - Model
 
 ### How to use it
 1. Install required library:
