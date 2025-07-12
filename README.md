@@ -8,37 +8,13 @@ Welcome to my internship documentation at [Smart Methods](https://www.s-m.com.sa
 
 The project is divided into four main folders, each representing a department. Inside each folder, you’ll find subfolders labeled as `Task 1`, `Task 2`, etc., corresponding to each assigned task.
 
-/Mechanical Department/
+- **Mechanical Department**
 
-├── Task 1/
+- **Electronics and IoT Department**
 
-├── Task 2/
+- **Robotics, AI and Data Science Department**
 
-└── ...
-
-/Electronics and IoT Department/
-
-├── Task 1/
-
-├── Task 2/
-
-└── ...
-
-/Robotics and AI Department/
-
-├── Task 1/
-
-├── Task 2/
-
-└── ...
-
-/Web Development/
-
-├── Task 1/
-
-├── Task 2/
-
-└── ...
+- **Web/Application Development**
 
 ---
 
@@ -51,7 +27,7 @@ The project is divided into four main folders, each representing a department. I
 - Mechanical slider and food robot housing design
 - Force and stability analysis for robot platforms
 
-### 2. ⚡ Electronics, Power, and IoT Department
+### 2. ⚡ Electronics and IoT Department
 - Motor drive and power circuit design
 - Brushless motor control systems
 - ESP32 and ARM-based control circuit implementation
@@ -65,7 +41,7 @@ The project is divided into four main folders, each representing a department. I
 - ROS and LIDAR for navigation & recognition
 - Fault detection and predictive maintenance
 
-### 4. 💻 Web Development
+### 4. 💻 Web/Application Development
 - UI/UX design and testing for robot systems
 - Cloud-based database analysis for robotics
 - Arabic NLP for chatbot-based interaction
