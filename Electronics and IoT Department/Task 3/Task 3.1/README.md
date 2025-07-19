@@ -21,8 +21,8 @@ This project simulates a smart auto power control system using a **pushbutton** 
 - Jumper wires
 
 ### Files in this project
-- `task3_1.ino` - Arduino code for button-controlled power switch
-- `task3_1_design.png` - Circuit wiring diagram
+- `task 3-1.ino` - Arduino code for button-controlled power switch
+- `Task 3.1 design.png` - Circuit wiring diagram
 
 ### How to build it
 1. **Build the Circuit:**
@@ -35,7 +35,7 @@ This project simulates a smart auto power control system using a **pushbutton** 
      - Cathode (–) to **GND**
 
 2. **Upload Code:**
-   - Open `task3_1.ino` in Arduino IDE
+   - Open `task 3-1.ino` in Arduino IDE
    - Select Arduino Uno board
    - Upload the code to your Arduino
 
