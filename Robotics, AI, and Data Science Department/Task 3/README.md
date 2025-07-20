@@ -4,6 +4,12 @@
 ### What is this task?  
 This project builds a **voice-controlled chatbot** system that listens to your voice, sends it to a chatbot, and then speaks the response back to you. It uses **Vosk** for speech recognition, **Cohere** for the chatbot response, and **pyttsx3** for text-to-speech.
 
+<br>
+
+https://github.com/user-attachments/assets/5d588387-b617-47b7-b484-800d57c767b4
+
+<br>
+
 ### How it works  
 1. Run the code – it will list available microphones  
 2. Choose a microphone to record from  
