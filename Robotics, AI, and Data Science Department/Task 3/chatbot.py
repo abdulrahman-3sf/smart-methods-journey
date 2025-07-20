@@ -9,7 +9,7 @@ import time
 import shutil
 
 # === CONFIG ===
-COHERE_API_KEY = "DARVHKnW7ZkeDXywbMKSpGHvYrhCUaJPY1Q0XTMq"  # Replace with your actual key
+COHERE_API_KEY = "YOUR_API_KEY"  # Replace with your actual key
 VOSK_MODEL_PATH = "vosk-model-small-en-us-0.15"  # Replace with your model folder
 SAMPLERATE = 16000
 
